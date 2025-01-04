@@ -8,11 +8,10 @@
 import SwiftUI
 
 struct ForEachExample: View {
-    @State private var numbers = [1, 2, 3]
-
-    let data: [String] = ["Hi", "Hello", "Hey everyone"]
-    let myStr: String = "Hello"
+    //    @State private var numbers = [1, 2, 3]
     
+    
+    let data: [String] = ["Hi", "Hello", "Hey everyone"]
     var body: some View {
         VStack {
             ForEach(data.indices) { index in
@@ -20,17 +19,17 @@ struct ForEachExample: View {
             }
             
             // numbers dizisini ForEach ile listele
-//            ForEach(numbers, id: \.self) { number in
-//                Text("Number: \(number)")
-//                Circle()
-//                    .frame(width: 30, height: 30)
-//            }
-
+            //            ForEach(numbers, id: \.self) { number in
+            //                Text("Number: \(number)")
+            //                Circle()
+            //                    .frame(width: 30, height: 30)
+            //            }
+            
             // Buton ile yeni bir sayı ekleyin
-//            Button("Add Number") {
-//                // numbers dizisine bir eleman ekleyin
-//                numbers.append(numbers.count + 1)
-//            }
+            //            Button("Add Number") {
+            //                // numbers dizisine bir eleman ekleyin
+            //                numbers.append(numbers.count + 1)
+            //            }
         }
     }
 }
