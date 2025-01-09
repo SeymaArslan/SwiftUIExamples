@@ -1,0 +1,6 @@
+Notlar
+
+@State yani state property wrapper swiftUI'ın en güçlü yönlerinden biri. Bir değişkene bu özelliği verdiğimizde temel olarak görünüme bu değişkenin durumunu izelemesini söyleriz. Bu değişken değişirse, görünümü değiştirmemiz veya güncellememiz gerekebilir. Örnek verecek olursak ekrandaki arka plan rengini ekran açıkken değiştirmek istersek renk değişkenine state özelliği veririz.
+@State View içinde sahip olduğumuz hemen hemen her türlü değişkene uygulanabilir.
+
+
