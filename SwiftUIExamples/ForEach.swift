@@ -14,9 +14,9 @@ struct ForEachExample: View {
     let data: [String] = ["Hi", "Hello", "Hey everyone"]
     var body: some View {
         VStack {
-            ForEach(data.indices) { index in
-                Text("\(data[index]): \(index)")
-            }
+//            ForEach(data.indices) { index in
+//                Text("\(data[index]): \(index)")
+//            }
             
             // numbers dizisini ForEach ile listele
             //            ForEach(numbers, id: \.self) { number in

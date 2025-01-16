@@ -17,6 +17,7 @@
 		1F68B6B22D2EAD25003324B2 /* StateExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F68B6B12D2EAD25003324B2 /* StateExample.swift */; };
 		1F68B6B42D2EB12A003324B2 /* Examples.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F68B6B32D2EB12A003324B2 /* Examples.swift */; };
 		1F68B6B62D2EB98B003324B2 /* ExtractedFunctionsBCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F68B6B52D2EB98B003324B2 /* ExtractedFunctionsBCamp.swift */; };
+		1F6A7FD32D315A390060FD07 /* BindingExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6A7FD22D315A390060FD07 /* BindingExample.swift */; };
 		1F6AF4532D300AD700F87D12 /* ExtractSubviewsExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F6AF4522D300AD700F87D12 /* ExtractSubviewsExample.swift */; };
 		1F751C622D242129007F9364 /* SwiftUIExamplesApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F751C612D242129007F9364 /* SwiftUIExamplesApp.swift */; };
 		1F751C642D242129007F9364 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F751C632D242129007F9364 /* ContentView.swift */; };
@@ -26,6 +27,10 @@
 		1F751C722D242170007F9364 /* Stacks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F751C712D242170007F9364 /* Stacks.swift */; };
 		1F751C742D24229A007F9364 /* PaddingAndSpacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F751C732D24229A007F9364 /* PaddingAndSpacer.swift */; };
 		1F751C762D25B2FC007F9364 /* Spacer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1F751C752D25B2FC007F9364 /* Spacer.swift */; };
+		1FA4AB5E2D3507710081CF44 /* ConditionalExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FA4AB5D2D3507710081CF44 /* ConditionalExample.swift */; };
+		1FAB402A2D393A5800CB3CB3 /* TernaryExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAB40292D393A5800CB3CB3 /* TernaryExample.swift */; };
+		1FAB402C2D393E1E00CB3CB3 /* AnimationExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAB402B2D393E1E00CB3CB3 /* AnimationExample.swift */; };
+		1FAB402E2D397EDC00CB3CB3 /* AnimationTimingExample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1FAB402D2D397EDC00CB3CB3 /* AnimationTimingExample.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +44,7 @@
 		1F68B6B12D2EAD25003324B2 /* StateExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateExample.swift; sourceTree = "<group>"; };
 		1F68B6B32D2EB12A003324B2 /* Examples.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Examples.swift; sourceTree = "<group>"; };
 		1F68B6B52D2EB98B003324B2 /* ExtractedFunctionsBCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBCamp.swift; sourceTree = "<group>"; };
+		1F6A7FD22D315A390060FD07 /* BindingExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingExample.swift; sourceTree = "<group>"; };
 		1F6AF4522D300AD700F87D12 /* ExtractSubviewsExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractSubviewsExample.swift; sourceTree = "<group>"; };
 		1F751C5E2D242129007F9364 /* SwiftUIExamples.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIExamples.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1F751C612D242129007F9364 /* SwiftUIExamplesApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIExamplesApp.swift; sourceTree = "<group>"; };
@@ -49,6 +55,10 @@
 		1F751C712D242170007F9364 /* Stacks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Stacks.swift; sourceTree = "<group>"; };
 		1F751C732D24229A007F9364 /* PaddingAndSpacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacer.swift; sourceTree = "<group>"; };
 		1F751C752D25B2FC007F9364 /* Spacer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacer.swift; sourceTree = "<group>"; };
+		1FA4AB5D2D3507710081CF44 /* ConditionalExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalExample.swift; sourceTree = "<group>"; };
+		1FAB40292D393A5800CB3CB3 /* TernaryExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryExample.swift; sourceTree = "<group>"; };
+		1FAB402B2D393E1E00CB3CB3 /* AnimationExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationExample.swift; sourceTree = "<group>"; };
+		1FAB402D2D397EDC00CB3CB3 /* AnimationTimingExample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationTimingExample.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +108,11 @@
 				1F68B6AD2D2E66BC003324B2 /* ButtonExample.swift */,
 				1F5619F52D2711C300AB34A6 /* ForEach.swift */,
 				1F5619F72D271EF700AB34A6 /* ScrollViewExample.swift */,
+				1F6A7FD22D315A390060FD07 /* BindingExample.swift */,
+				1FA4AB5D2D3507710081CF44 /* ConditionalExample.swift */,
+				1FAB40292D393A5800CB3CB3 /* TernaryExample.swift */,
+				1FAB402B2D393E1E00CB3CB3 /* AnimationExample.swift */,
+				1FAB402D2D397EDC00CB3CB3 /* AnimationTimingExample.swift */,
 				1F751C752D25B2FC007F9364 /* Spacer.swift */,
 				1F68B6AF2D2EAB9A003324B2 /* Notes */,
 			);
@@ -192,11 +207,16 @@
 				1F6AF4532D300AD700F87D12 /* ExtractSubviewsExample.swift in Sources */,
 				1F751C722D242170007F9364 /* Stacks.swift in Sources */,
 				1F5619F42D26D75800AB34A6 /* Initializer.swift in Sources */,
+				1FA4AB5E2D3507710081CF44 /* ConditionalExample.swift in Sources */,
 				1F5619FA2D29D44600AB34A6 /* GridExample.swift in Sources */,
+				1FAB402E2D397EDC00CB3CB3 /* AnimationTimingExample.swift in Sources */,
+				1FAB402A2D393A5800CB3CB3 /* TernaryExample.swift in Sources */,
 				1F751C762D25B2FC007F9364 /* Spacer.swift in Sources */,
 				1F751C642D242129007F9364 /* ContentView.swift in Sources */,
+				1F6A7FD32D315A390060FD07 /* BindingExample.swift in Sources */,
 				1F751C702D242153007F9364 /* BackgroundAndOverlay.swift in Sources */,
 				1F751C622D242129007F9364 /* SwiftUIExamplesApp.swift in Sources */,
+				1FAB402C2D393E1E00CB3CB3 /* AnimationExample.swift in Sources */,
 				1F68B6AE2D2E66BC003324B2 /* ButtonExample.swift in Sources */,
 				1F751C742D24229A007F9364 /* PaddingAndSpacer.swift in Sources */,
 			);
